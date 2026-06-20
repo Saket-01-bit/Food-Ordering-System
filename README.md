@@ -14,6 +14,7 @@ A console-based Food Ordering System built in Java, demonstrating clean object-o
 - [Project Structure](#project-structure)
 - [Design Patterns Used](#design-patterns-used)
 - [Class Breakdown](#class-breakdown)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Sample Run](#sample-run)
@@ -180,6 +181,54 @@ Lists all previously completed orders with their items and totals.
 <summary><strong>6. Exit</strong></summary>
 
 Closes the application.
+</details>
+
+---
+
+## Screenshots
+
+> Replace the image paths below with your own screenshots placed inside a `screenshots/` folder in the project root. GitHub will render them automatically once the files exist at those paths.
+
+<details>
+<summary><strong>Main Menu</strong></summary>
+
+![Main Menu](screenshots/main-menu.png)
+
+</details>
+
+<details>
+<summary><strong>Browsing the Food Menu</strong></summary>
+
+![Food Menu](screenshots/food-menu.png)
+
+</details>
+
+<details>
+<summary><strong>Customizing an Item</strong></summary>
+
+![Customizing Item](screenshots/customize-item.png)
+
+</details>
+
+<details>
+<summary><strong>Viewing the Cart</strong></summary>
+
+![Shopping Cart](screenshots/view-cart.png)
+
+</details>
+
+<details>
+<summary><strong>Checkout Confirmation</strong></summary>
+
+![Checkout](screenshots/checkout.png)
+
+</details>
+
+<details>
+<summary><strong>Order History</strong></summary>
+
+![Order History](screenshots/order-history.png)
+
 </details>
 
 ---
