@@ -134,15 +134,6 @@ javac *.java
 java Main
 ```
 
-> **Note:** `Main.java` currently declares `static void main()` without the `String[] args` parameter. Update it to the standard signature below before running, since the JVM requires this exact signature as an entry point:
->
-> ```java
-> public static void main(String[] args) {
->     FoodOrderingSystem system = new FoodOrderingSystem();
->     system.run();
-> }
-> ```
-
 ---
 
 ## How to Use
