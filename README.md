@@ -187,8 +187,6 @@ Closes the application.
 
 ## Screenshots
 
-> Replace the image paths below with your own screenshots placed inside a `screenshots/` folder in the project root. GitHub will render them automatically once the files exist at those paths.
-
 <details>
 <summary><strong>Main Menu</strong></summary>
 
