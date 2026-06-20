@@ -272,16 +272,6 @@ Enter quantity for Cheese Burger [Extra Patty]: 2
 
 ---
 
-## Future Improvements
-
-- Fix `Main.java` to use the standard `main(String[] args)` signature
-- Add input validation for negative or non-numeric quantities
-- Add the ability to remove or edit items already in the cart
-- Persist order history to a file or database between sessions
-- Add unit tests for cart calculations and item customization logic
-
----
-
 ## License
 
 This project is open source and available for personal or educational use.
